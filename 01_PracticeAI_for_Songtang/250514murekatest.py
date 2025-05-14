@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/13yoaToHhV3qxd__0uAaGBBWdnm6WobCu
 """
 
-token = "op_man40497Ah4cfeg4iEvWC2RY33SaTx1"
+token = "token"
 
 import requests
 import json
